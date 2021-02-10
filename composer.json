@@ -1,7 +1,7 @@
 {
 
   "version"       : "0.1",
-  "name"          : "ethitter/wp-redis-user-session-storage",
+  "name"          : "metabolism/wp-redis-user-session-storage",
   "description"   : "Store WordPress user session tokens in Redis rather than the usermeta table. Requires PECL Redis library.",
   "homepage"      : "https://github.com/ethitter/WP-Redis-User-Session-Storage",
   "authors"       : [
